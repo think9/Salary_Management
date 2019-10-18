@@ -26,28 +26,28 @@
 
 ### 관리자 - 로그인 및 사용자 등록
 
-![create](img/1_create.png)
+![create](img/1_create.PNG)
 
 ### 관리자 - 사용자 조회
 
-![read](img/2_read.png)
+![read](img/2_read.PNG)
 
 ### 관리자 - 사용자 검색
 
-![search](img/3_search.png)
+![search](img/3_search.PNG)
 
 ### 관리자 - 사용자 수정
 
-![update](img/4_update.png)
+![update](img/4_update.PNG)
 
 ### 관리자 - 사용자 삭제
 
-![delete](img/5_delete.png)
+![delete](img/5_delete.PNG)
 
 ### 사용자 - 자신 정보 조회
 
-![read](img/6_read.png)
+![read](img/6_read.PNG)
 
 ### 사용자 - 자신 정보 수정
 
-![update](img/7_update.png)
+![update](img/7_update.PNG)
